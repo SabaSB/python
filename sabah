@@ -1,0 +1,8 @@
+NameError: name 's' is not defined
+>>>
+>>> name = "John"
+>>> age = 60
+>>> output = f"There was a man named {name}, he was {age} years old. He really liked his name {name} but didn't like being {age}."
+>>> print(output)
+There was a man named John, he was 60 years old. He really liked his name John but didn't like being 60.
+>>>
